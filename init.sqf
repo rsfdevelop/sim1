@@ -1,10 +1,6 @@
 if ((!isServer) && (player != player)) then {waitUntil {player == player};};
 
-titleText ["Monsoon Script DEMO", "BLACK FADED", 0.2];
-
 setViewDistance 2000;
-
-[] execVM "briefing.sqf";
 
 // Monsoon
 [100,920,true,true,true,true,true,1] execvm "AL_monsoon\al_monsoon.sqf";

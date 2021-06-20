@@ -18,6 +18,9 @@ while {alive _al_gravity_emiter} do {
 	[_al_gravity_emiter,["vum",3000]] remoteExec ["say3d"];
 	sleep 11;
 };
+};
+
+_ele = "#particlesource" createVehicleLocal (getpos _al_gravity);
 _ele setParticleCircle [0, [0, 0, 0]];
 _ele setParticleRandom [0, [0.25, 0.25, 0], [0.175, 0.175, 0], 0, 0.25, [0, 0, 0, 0.1], 0, 0];
 _ele setParticleParams [["\A3\data_f\blesk1", 1, 0, 1], "", "SpaceObject", 1, 0.5, [0, 0, 0], [0, 0, 0.75],13, 10, 7.9, 0.075, [0.1, 0.1, 0.1], [[0.1, 0.1, 0.1, 1], [0.25, 0.25, 0.25, 0.5], [0.5, 0.5, 0.5, 0]], [0.08], 1, 0, "", "", _al_gravity];
