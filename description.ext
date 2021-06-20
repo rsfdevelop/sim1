@@ -1,0 +1,252 @@
+
+
+class CfgSounds
+{
+	class vum
+	{
+		name = "vum";
+		sound[] = {"\sound\vum.ogg", db+10, 1};
+		titles[] = {};
+	};
+	class up_impact
+	{
+		name = "up_impact";
+		sound[] = {"\sound\up_impact.ogg", db+10, 1};
+		titles[] = {};
+	};
+	class ecou
+	{
+		name = "ecou";
+		sound[] = {"\sound\ecou.ogg", db+20, 1};
+		titles[] = {};
+	};		
+	class oscilatie
+	{
+		name = "oscilatie";
+		sound[] = {"\sound\oscilatie.ogg", db+15, 1};
+		titles[] = {};
+	};	
+	class eco_ray	
+	{
+		name = "eco_ray";
+		sound[] = {"\sound\eco_ray.ogg", db+3, 1};
+		titles[] = {};
+	};
+	class earthquakes	
+	{
+		name = "earthquakes";
+		sound[] = {"\sound\earthquakes.ogg", 1, 1};
+		titles[] = {};
+	};		
+
+	class bcg_wind
+	{
+		name = "bcg_wind";
+		sound[] = {"\sound\bcg_wind.ogg", db+5, 1};
+		titles[] = {1, ""};
+	};	
+	class rafala_1
+	{
+		name = "rafala_1";
+		sound[] = {"\sound\rafala_1.ogg", db+10, 1};
+		titles[] = {1, ""};
+	};	
+	class rafala_2
+	{
+		name = "rafala_2";
+		sound[] = {"\sound\rafala_2.ogg", db+5, 1};
+		titles[] = {1, ""};
+	};	
+	class rafala_4_dr
+	{
+		name = "rafala_4_dr";
+		sound[] = {"\sound\rafala_4_dr.ogg", db+10, 1};
+		titles[] = {1, ""};
+	};	
+	class rafala_5_st
+	{
+		name = "rafala_5_st";
+		sound[] = {"\sound\rafala_5_st.ogg", db+10, 1};
+		titles[] = {1, ""};
+	};
+	class rafala_6
+	{
+		name = "rafala_6";
+		sound[] = {"\sound\rafala_6.ogg", db+15, 1};
+		titles[] = {1, ""};
+	};	
+	class rafala_7
+	{
+		name = "rafala_7";
+		sound[] = {"\sound\rafala_7.ogg", db+10, 1};
+		titles[] = {1, ""};
+	};	
+	class rafala_8
+	{
+		name = "rafala_8";
+		sound[] = {"\sound\rafala_8.ogg", db+15, 1};
+		titles[] = {1, ""};
+	};	
+	class rafala_9
+	{
+		name = "rafala_9";
+		sound[] = {"\sound\rafala_9.ogg", db+10, 1};
+		titles[] = {1, ""};
+	};
+	class 01_far
+	{
+		name = "01_far"; // Name for mission editor
+		sound[] = {\Sound\01_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 02_far
+	{
+		name = "02_far"; // Name for mission editor
+		sound[] = {\Sound\02_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 03_far
+	{
+		name = "03_far"; // Name for mission editor
+		sound[] = {\Sound\03_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 04_far
+	{
+		name = "04_far"; // Name for mission editor
+		sound[] = {\Sound\04_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 05_far
+	{
+		name = "05_far"; // Name for mission editor
+		sound[] = {\Sound\05_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 06_far
+	{
+		name = "06_far"; // Name for mission editor
+		sound[] = {\Sound\06_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 07_far
+	{
+		name = "07_far"; // Name for mission editor
+		sound[] = {\Sound\07_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 08_far
+	{
+		name = "08_far"; // Name for mission editor
+		sound[] = {\Sound\08_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 09_far
+	{
+		name = "09_far"; // Name for mission editor
+		sound[] = {\Sound\09_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 10_far
+	{
+		name = "10_far"; // Name for mission editor
+		sound[] = {\Sound\10_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 11_far
+	{
+		name = "11_far"; // Name for mission editor
+		sound[] = {\Sound\11_far.ogg,1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 12_far
+	{
+		name = "12_far"; // Name for mission editor
+		sound[] = {\Sound\12_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 13_far
+	{
+		name = "13_far"; // Name for mission editor
+		sound[] = {\Sound\13_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 14_far
+	{
+		name = "14_far"; // Name for mission editor
+		sound[] = {\Sound\14_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 16_far
+	{
+		name = "16_far"; // Name for mission editor
+		sound[] = {\Sound\16_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 17_far
+	{
+		name = "17_far"; // Name for mission editor
+		sound[] = {\Sound\17_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 18_far
+	{
+		name = "18_far"; // Name for mission editor
+		sound[] = {\Sound\18_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 19_far
+	{
+		name = "19_far"; // Name for mission editor
+		sound[] = {\Sound\19_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 20_far
+	{
+		name = "20_far"; // Name for mission editor
+		sound[] = {\Sound\20_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 21_far
+	{
+		name = "21_far"; // Name for mission editor
+		sound[] = {\Sound\21_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 22_far
+	{
+		name = "22_far"; // Name for mission editor
+		sound[] = {\Sound\22_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 23_far
+	{
+		name = "23_far"; // Name for mission editor
+		sound[] = {\Sound\23_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 24_far
+	{
+		name = "24_far"; // Name for mission editor
+		sound[] = {\Sound\24_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 25_far
+	{
+		name = "25_far"; // Name for mission editor
+		sound[] = {\Sound\25_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 26_far
+	{
+		name = "26_far"; // Name for mission editor
+		sound[] = {\Sound\26_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+	class 27_far
+	{
+		name = "27_far"; // Name for mission editor
+		sound[] = {\Sound\27_far.ogg, 1, 1.0};
+		titles[] = {0, ""};	
+	};	
+};
